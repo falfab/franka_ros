@@ -3,8 +3,8 @@ moveit_setup_assistant_config:
     package: franka_description
     relative_path: robots/panda_arm_hand.urdf.xacro
   SRDF:
-    relative_path: config/panda_arm_hand.srdf
+    relative_path: config/panda.srdf
   CONFIG:
-    author_name: Franka Emika GmbH
-    author_email: info@franka.de
-    generated_timestamp: 1501848099
+    author_name: Fabio Falezza
+    author_email: fabio.falezza@gmail.com
+    generated_timestamp: 1519398147
